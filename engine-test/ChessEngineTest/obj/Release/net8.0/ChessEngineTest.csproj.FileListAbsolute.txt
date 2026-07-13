@@ -1,0 +1,14 @@
+/home/z/my-project/chess-engine-test/ChessEngineTest/bin/Release/net8.0/ChessEngineTest
+/home/z/my-project/chess-engine-test/ChessEngineTest/bin/Release/net8.0/ChessEngineTest.deps.json
+/home/z/my-project/chess-engine-test/ChessEngineTest/bin/Release/net8.0/ChessEngineTest.runtimeconfig.json
+/home/z/my-project/chess-engine-test/ChessEngineTest/bin/Release/net8.0/ChessEngineTest.dll
+/home/z/my-project/chess-engine-test/ChessEngineTest/bin/Release/net8.0/ChessEngineTest.pdb
+/home/z/my-project/chess-engine-test/ChessEngineTest/obj/Release/net8.0/ChessEngineTest.GeneratedMSBuildEditorConfig.editorconfig
+/home/z/my-project/chess-engine-test/ChessEngineTest/obj/Release/net8.0/ChessEngineTest.AssemblyInfoInputs.cache
+/home/z/my-project/chess-engine-test/ChessEngineTest/obj/Release/net8.0/ChessEngineTest.AssemblyInfo.cs
+/home/z/my-project/chess-engine-test/ChessEngineTest/obj/Release/net8.0/ChessEngineTest.csproj.CoreCompileInputs.cache
+/home/z/my-project/chess-engine-test/ChessEngineTest/obj/Release/net8.0/ChessEngineTest.dll
+/home/z/my-project/chess-engine-test/ChessEngineTest/obj/Release/net8.0/refint/ChessEngineTest.dll
+/home/z/my-project/chess-engine-test/ChessEngineTest/obj/Release/net8.0/ChessEngineTest.pdb
+/home/z/my-project/chess-engine-test/ChessEngineTest/obj/Release/net8.0/ChessEngineTest.genruntimeconfig.cache
+/home/z/my-project/chess-engine-test/ChessEngineTest/obj/Release/net8.0/ref/ChessEngineTest.dll
