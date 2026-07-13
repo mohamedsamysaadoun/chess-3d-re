@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 4,
+  "name": "MobileAdsEventExecutor",
+  "namespace": "GoogleMobileAds.Common",
+  "class_name": "MobileAdsEventExecutor",
+  "assembly_name": "GoogleMobileAds.Common.dll"
+}

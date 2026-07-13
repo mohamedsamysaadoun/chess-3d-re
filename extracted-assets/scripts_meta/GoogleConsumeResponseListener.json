@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 537,
+  "name": "GoogleConsumeResponseListener",
+  "namespace": "UnityEngine.Purchasing",
+  "class_name": "GoogleConsumeResponseListener",
+  "assembly_name": "UnityEngine.Purchasing.Stores"
+}

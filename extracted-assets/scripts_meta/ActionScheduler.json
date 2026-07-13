@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 202,
+  "name": "ActionScheduler",
+  "namespace": "Unity.Services.Core.Scheduler.Internal",
+  "class_name": "ActionScheduler",
+  "assembly_name": "Unity.Services.Core.Scheduler"
+}

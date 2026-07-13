@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 18,
+  "name": "AdImpressionEvent",
+  "namespace": "Unity.Services.Analytics",
+  "class_name": "AdImpressionEvent",
+  "assembly_name": "Unity.Services.Analytics"
+}

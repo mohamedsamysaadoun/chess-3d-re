@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 117,
+  "name": "ScriptingStoreCallback",
+  "namespace": "UnityEngine.Purchasing",
+  "class_name": "ScriptingStoreCallback",
+  "assembly_name": "UnityEngine.Purchasing.Stores"
+}

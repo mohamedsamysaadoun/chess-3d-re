@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 319,
+  "name": "IInitializablePackage",
+  "namespace": "Unity.Services.Core.Internal",
+  "class_name": "IInitializablePackage",
+  "assembly_name": "Unity.Services.Core.Internal"
+}

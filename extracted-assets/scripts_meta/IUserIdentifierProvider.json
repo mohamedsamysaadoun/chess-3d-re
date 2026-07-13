@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 175,
+  "name": "IUserIdentifierProvider",
+  "namespace": "Unity.Services.Core.Device",
+  "class_name": "IUserIdentifierProvider",
+  "assembly_name": "Unity.Services.Core.Device"
+}

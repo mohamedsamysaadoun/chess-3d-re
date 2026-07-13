@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 35,
+  "name": "PlaymodeTestsController",
+  "namespace": "UnityEngine.TestTools.TestRunner",
+  "class_name": "PlaymodeTestsController",
+  "assembly_name": "UnityEngine.TestRunner"
+}

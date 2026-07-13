@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 503,
+  "name": "IAmazonConfiguration",
+  "namespace": "UnityEngine.Purchasing",
+  "class_name": "IAmazonConfiguration",
+  "assembly_name": "UnityEngine.Purchasing.Stores"
+}

@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 24,
+  "name": "RequestFailedException",
+  "namespace": "Unity.Services.Core",
+  "class_name": "RequestFailedException",
+  "assembly_name": "Unity.Services.Core"
+}

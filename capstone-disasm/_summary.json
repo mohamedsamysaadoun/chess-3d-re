@@ -1,0 +1,353 @@
+[
+  {
+    "name": "ChessEngine_ctor",
+    "rva": "0xee3e34",
+    "description": "Constructor",
+    "status": "OK",
+    "instructions": 64,
+    "size_bytes": 256,
+    "output_file": "/home/z/my-project/download/chess-re/capstone-disasm/ChessEngine_ctor.asm"
+  },
+  {
+    "name": "ChessEngine_Suru",
+    "rva": "0xee3ff8",
+    "description": "Initialize/Start",
+    "status": "OK",
+    "instructions": 76,
+    "size_bytes": 312,
+    "output_file": "/home/z/my-project/download/chess-re/capstone-disasm/ChessEngine_Suru.asm"
+  },
+  {
+    "name": "ChessEngine_ParseFEN",
+    "rva": "0xee4130",
+    "description": "Parse FEN string",
+    "status": "OK",
+    "instructions": 334,
+    "size_bytes": 2072,
+    "output_file": "/home/z/my-project/download/chess-re/capstone-disasm/ChessEngine_ParseFEN.asm"
+  },
+  {
+    "name": "ChessEngine_GetBestMove",
+    "rva": "0xee4948",
+    "description": "PUBLIC API: Get best move",
+    "status": "OK",
+    "instructions": 68,
+    "size_bytes": 1204,
+    "output_file": "/home/z/my-project/download/chess-re/capstone-disasm/ChessEngine_GetBestMove.asm"
+  },
+  {
+    "name": "ChessEngine_StartSearch",
+    "rva": "0xee4dfc",
+    "description": "Start search",
+    "status": "OK",
+    "instructions": 31,
+    "size_bytes": 124,
+    "output_file": "/home/z/my-project/download/chess-re/capstone-disasm/ChessEngine_StartSearch.asm"
+  },
+  {
+    "name": "ChessEngine_AlphaBeta",
+    "rva": "0xee4e78",
+    "description": "Alpha-beta search",
+    "status": "OK",
+    "instructions": 248,
+    "size_bytes": 1048,
+    "output_file": "/home/z/my-project/download/chess-re/capstone-disasm/ChessEngine_AlphaBeta.asm"
+  },
+  {
+    "name": "ChessEngine_QuiescenceSearch",
+    "rva": "0xee5290",
+    "description": "Quiescence search",
+    "status": "OK",
+    "instructions": 181,
+    "size_bytes": 796,
+    "output_file": "/home/z/my-project/download/chess-re/capstone-disasm/ChessEngine_QuiescenceSearch.asm"
+  },
+  {
+    "name": "ChessEngine_GenerateMoves",
+    "rva": "0xee5db8",
+    "description": "Generate all legal moves",
+    "status": "OK",
+    "instructions": 407,
+    "size_bytes": 1664,
+    "output_file": "/home/z/my-project/download/chess-re/capstone-disasm/ChessEngine_GenerateMoves.asm"
+  },
+  {
+    "name": "ChessEngine_GenerateCaptures",
+    "rva": "0xee6cb8",
+    "description": "Generate capture moves",
+    "status": "OK",
+    "instructions": 353,
+    "size_bytes": 1448,
+    "output_file": "/home/z/my-project/download/chess-re/capstone-disasm/ChessEngine_GenerateCaptures.asm"
+  },
+  {
+    "name": "ChessEngine_AddMove",
+    "rva": "0xee73d0",
+    "description": "Add move to list",
+    "status": "OK",
+    "instructions": 71,
+    "size_bytes": 308,
+    "output_file": "/home/z/my-project/download/chess-re/capstone-disasm/ChessEngine_AddMove.asm"
+  },
+  {
+    "name": "ChessEngine_AddPromotionMove",
+    "rva": "0xee7504",
+    "description": "Add promotion move",
+    "status": "OK",
+    "instructions": 33,
+    "size_bytes": 140,
+    "output_file": "/home/z/my-project/download/chess-re/capstone-disasm/ChessEngine_AddPromotionMove.asm"
+  },
+  {
+    "name": "ChessEngine_Evaluate",
+    "rva": "0xee55ac",
+    "description": "Evaluate position",
+    "status": "OK",
+    "instructions": 481,
+    "size_bytes": 1932,
+    "output_file": "/home/z/my-project/download/chess-re/capstone-disasm/ChessEngine_Evaluate.asm"
+  },
+  {
+    "name": "ChessEngine_EvalWhitePawn",
+    "rva": "0xee7590",
+    "description": "Eval white pawn",
+    "status": "OK",
+    "instructions": 94,
+    "size_bytes": 384,
+    "output_file": "/home/z/my-project/download/chess-re/capstone-disasm/ChessEngine_EvalWhitePawn.asm"
+  },
+  {
+    "name": "ChessEngine_EvalBlackPawn",
+    "rva": "0xee78a4",
+    "description": "Eval black pawn",
+    "status": "OK",
+    "instructions": 101,
+    "size_bytes": 412,
+    "output_file": "/home/z/my-project/download/chess-re/capstone-disasm/ChessEngine_EvalBlackPawn.asm"
+  },
+  {
+    "name": "ChessEngine_EvalWhiteKing",
+    "rva": "0xee7710",
+    "description": "Eval white king",
+    "status": "OK",
+    "instructions": 99,
+    "size_bytes": 404,
+    "output_file": "/home/z/my-project/download/chess-re/capstone-disasm/ChessEngine_EvalWhiteKing.asm"
+  },
+  {
+    "name": "ChessEngine_EvalBlackKing",
+    "rva": "0xee7a40",
+    "description": "Eval black king",
+    "status": "OK",
+    "instructions": 105,
+    "size_bytes": 428,
+    "output_file": "/home/z/my-project/download/chess-re/capstone-disasm/ChessEngine_EvalBlackKing.asm"
+  },
+  {
+    "name": "ChessEngine_EvalWhiteKingEndgame",
+    "rva": "0xee7bec",
+    "description": "Eval white king endgame",
+    "status": "OK",
+    "instructions": 38,
+    "size_bytes": 160,
+    "output_file": "/home/z/my-project/download/chess-re/capstone-disasm/ChessEngine_EvalWhiteKingEndgame.asm"
+  },
+  {
+    "name": "ChessEngine_EvalBlackKingEndgame",
+    "rva": "0xee7c8c",
+    "description": "Eval black king endgame",
+    "status": "OK",
+    "instructions": 37,
+    "size_bytes": 156,
+    "output_file": "/home/z/my-project/download/chess-re/capstone-disasm/ChessEngine_EvalBlackKingEndgame.asm"
+  },
+  {
+    "name": "ChessEngine_MakeMove",
+    "rva": "0xee6570",
+    "description": "Make move",
+    "status": "OK",
+    "instructions": 205,
+    "size_bytes": 1320,
+    "output_file": "/home/z/my-project/download/chess-re/capstone-disasm/ChessEngine_MakeMove.asm"
+  },
+  {
+    "name": "ChessEngine_UnmakeMove",
+    "rva": "0xee6a98",
+    "description": "Unmake move",
+    "status": "OK",
+    "instructions": 134,
+    "size_bytes": 544,
+    "output_file": "/home/z/my-project/download/chess-re/capstone-disasm/ChessEngine_UnmakeMove.asm"
+  },
+  {
+    "name": "ChessEngine_IsSquareAttacked",
+    "rva": "0xee7d28",
+    "description": "Is square attacked",
+    "status": "OK",
+    "instructions": 175,
+    "size_bytes": 4096,
+    "output_file": "/home/z/my-project/download/chess-re/capstone-disasm/ChessEngine_IsSquareAttacked.asm"
+  },
+  {
+    "name": "ChessEngine_IsInCheck",
+    "rva": "0xee5d38",
+    "description": "Is in check",
+    "status": "OK",
+    "instructions": 27,
+    "size_bytes": 128,
+    "output_file": "/home/z/my-project/download/chess-re/capstone-disasm/ChessEngine_IsInCheck.asm"
+  },
+  {
+    "name": "ChessEngine_SortPV",
+    "rva": "0xee6438",
+    "description": "Sort PV",
+    "status": "OK",
+    "instructions": 52,
+    "size_bytes": 216,
+    "output_file": "/home/z/my-project/download/chess-re/capstone-disasm/ChessEngine_SortPV.asm"
+  },
+  {
+    "name": "ChessEngine_QuickSortMoves",
+    "rva": "0xee6510",
+    "description": "QuickSort moves",
+    "status": "OK",
+    "instructions": 24,
+    "size_bytes": 96,
+    "output_file": "/home/z/my-project/download/chess-re/capstone-disasm/ChessEngine_QuickSortMoves.asm"
+  },
+  {
+    "name": "ChessEngine_PartitionMoves",
+    "rva": "0xee7260",
+    "description": "Partition moves",
+    "status": "OK",
+    "instructions": 90,
+    "size_bytes": 368,
+    "output_file": "/home/z/my-project/download/chess-re/capstone-disasm/ChessEngine_PartitionMoves.asm"
+  },
+  {
+    "name": "OpeningBook_GetOpeningMove",
+    "rva": "0xee3c0c",
+    "description": "Get opening move",
+    "status": "OK",
+    "instructions": 52,
+    "size_bytes": 1004,
+    "output_file": "/home/z/my-project/download/chess-re/capstone-disasm/OpeningBook_GetOpeningMove.asm"
+  },
+  {
+    "name": "OpeningBook_ctor",
+    "rva": "0xee3ce0",
+    "description": "OpeningBook constructor",
+    "status": "OK",
+    "instructions": 64,
+    "size_bytes": 256,
+    "output_file": "/home/z/my-project/download/chess-re/capstone-disasm/OpeningBook_ctor.asm"
+  },
+  {
+    "name": "Move_get_Empty",
+    "rva": "0xee4670",
+    "description": "Move.Empty getter",
+    "status": "OK",
+    "instructions": 2,
+    "size_bytes": 256,
+    "output_file": "/home/z/my-project/download/chess-re/capstone-disasm/Move_get_Empty.asm"
+  },
+  {
+    "name": "Move_op_Equality",
+    "rva": "0xee559c",
+    "description": "Move == operator",
+    "status": "OK",
+    "instructions": 4,
+    "size_bytes": 256,
+    "output_file": "/home/z/my-project/download/chess-re/capstone-disasm/Move_op_Equality.asm"
+  },
+  {
+    "name": "Move_ParseRegularCAN",
+    "rva": "0xee4cd4",
+    "description": "Parse CAN notation",
+    "status": "OK",
+    "instructions": 41,
+    "size_bytes": 256,
+    "output_file": "/home/z/my-project/download/chess-re/capstone-disasm/Move_ParseRegularCAN.asm"
+  },
+  {
+    "name": "Move_ToString",
+    "rva": "0xee4bb8",
+    "description": "Move.ToString",
+    "status": "OK",
+    "instructions": 64,
+    "size_bytes": 256,
+    "output_file": "/home/z/my-project/download/chess-re/capstone-disasm/Move_ToString.asm"
+  },
+  {
+    "name": "AdMobScript_AdMobInit",
+    "rva": "0xec9bcc",
+    "description": "AdMob init (PATCHED\u2192RET)",
+    "status": "OK",
+    "instructions": 34,
+    "size_bytes": 136,
+    "output_file": "/home/z/my-project/download/chess-re/capstone-disasm/AdMobScript_AdMobInit.asm"
+  },
+  {
+    "name": "AdMobScript_AMReqInters",
+    "rva": "0xec9c54",
+    "description": "Request interstitial (PATCHED\u2192RET)",
+    "status": "OK",
+    "instructions": 23,
+    "size_bytes": 168,
+    "output_file": "/home/z/my-project/download/chess-re/capstone-disasm/AdMobScript_AMReqInters.asm"
+  },
+  {
+    "name": "AdMobScript_AMOnGameCompleteEv",
+    "rva": "0xec15cc",
+    "description": "End-game ad (PATCHED\u2192RET)",
+    "status": "OK",
+    "instructions": 1,
+    "size_bytes": 4,
+    "output_file": "/home/z/my-project/download/chess-re/capstone-disasm/AdMobScript_AMOnGameCompleteEv.asm"
+  },
+  {
+    "name": "AdMobScript_AdMobOnGameStart",
+    "rva": "0xeb6cb0",
+    "description": "Start-game ad (PATCHED\u2192RET)",
+    "status": "OK",
+    "instructions": 27,
+    "size_bytes": 208,
+    "output_file": "/home/z/my-project/download/chess-re/capstone-disasm/AdMobScript_AdMobOnGameStart.asm"
+  },
+  {
+    "name": "MainScript_GoToHighScores",
+    "rva": "0xec2f20",
+    "description": "Navigate to high scores",
+    "status": "OK",
+    "instructions": 32,
+    "size_bytes": 128,
+    "output_file": "/home/z/my-project/download/chess-re/capstone-disasm/MainScript_GoToHighScores.asm"
+  },
+  {
+    "name": "MainScript_FindUIObjects",
+    "rva": "0xec2fa0",
+    "description": "Find UI objects",
+    "status": "OK",
+    "instructions": 97,
+    "size_bytes": 396,
+    "output_file": "/home/z/my-project/download/chess-re/capstone-disasm/MainScript_FindUIObjects.asm"
+  },
+  {
+    "name": "MainScript_SetupUIFunctions",
+    "rva": "0xec312c",
+    "description": "Setup UI functions",
+    "status": "OK",
+    "instructions": 868,
+    "size_bytes": 3472,
+    "output_file": "/home/z/my-project/download/chess-re/capstone-disasm/MainScript_SetupUIFunctions.asm"
+  },
+  {
+    "name": "MainScript_InGameUIInit",
+    "rva": "0xec40a8",
+    "description": "In-game UI init",
+    "status": "OK",
+    "instructions": 933,
+    "size_bytes": 3752,
+    "output_file": "/home/z/my-project/download/chess-re/capstone-disasm/MainScript_InGameUIInit.asm"
+  }
+]

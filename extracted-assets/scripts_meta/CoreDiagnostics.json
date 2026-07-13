@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 403,
+  "name": "CoreDiagnostics",
+  "namespace": "Unity.Services.Core.Internal",
+  "class_name": "CoreDiagnostics",
+  "assembly_name": "Unity.Services.Core.Internal"
+}

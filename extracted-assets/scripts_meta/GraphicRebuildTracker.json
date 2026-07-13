@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 167,
+  "name": "GraphicRebuildTracker",
+  "namespace": "UnityEngine.UI",
+  "class_name": "GraphicRebuildTracker",
+  "assembly_name": "UnityEngine.UI"
+}

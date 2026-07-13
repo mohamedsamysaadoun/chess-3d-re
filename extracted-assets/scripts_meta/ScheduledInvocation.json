@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 17,
+  "name": "ScheduledInvocation",
+  "namespace": "Unity.Services.Core.Scheduler.Internal",
+  "class_name": "ScheduledInvocation",
+  "assembly_name": "Unity.Services.Core.Scheduler"
+}

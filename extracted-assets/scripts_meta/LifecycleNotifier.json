@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 226,
+  "name": "LifecycleNotifier",
+  "namespace": "UnityEngine.Purchasing",
+  "class_name": "LifecycleNotifier",
+  "assembly_name": "UnityEngine.Purchasing.Stores"
+}

@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 102,
+  "name": "AssemblyWrapper",
+  "namespace": "UnityEngine.TestTools.Utils",
+  "class_name": "AssemblyWrapper",
+  "assembly_name": "UnityEngine.TestRunner"
+}

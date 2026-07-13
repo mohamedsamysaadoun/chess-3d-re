@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 412,
+  "name": "SdkVersion",
+  "namespace": "Unity.Services.Analytics",
+  "class_name": "SdkVersion",
+  "assembly_name": "Unity.Services.Analytics"
+}

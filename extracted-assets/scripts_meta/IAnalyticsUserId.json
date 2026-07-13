@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 234,
+  "name": "IAnalyticsUserId",
+  "namespace": "Unity.Services.Core.Analytics.Internal",
+  "class_name": "IAnalyticsUserId",
+  "assembly_name": "Unity.Services.Core.Internal"
+}

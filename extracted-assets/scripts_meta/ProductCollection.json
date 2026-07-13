@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 610,
+  "name": "ProductCollection",
+  "namespace": "UnityEngine.Purchasing",
+  "class_name": "ProductCollection",
+  "assembly_name": "UnityEngine.Purchasing"
+}

@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 50,
+  "name": "FakeUDPExtension",
+  "namespace": "UnityEngine.Purchasing",
+  "class_name": "FakeUDPExtension",
+  "assembly_name": "UnityEngine.Purchasing.Stores"
+}

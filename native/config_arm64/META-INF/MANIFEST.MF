@@ -1,0 +1,17 @@
+Manifest-Version: 1.0
+
+Name: AndroidManifest.xml
+SHA1-Digest: W6ZznRyJhXYwZ5k5rZKk8aEjM2w=
+
+Name: lib/arm64-v8a/libil2cpp.so
+SHA1-Digest: 0mwlgE0Bvy2muFNW/BxYt2aCsY0=
+
+Name: lib/arm64-v8a/libmain.so
+SHA1-Digest: Jp3v0Yg1YyAMnhjjuNGHeFbShqU=
+
+Name: lib/arm64-v8a/libunity.so
+SHA1-Digest: 27Z24vuyzAts7pWVsCLfvNFZqAA=
+
+Name: stamp-cert-sha256
+SHA1-Digest: 5vTkm69vqAbusD/fho7oWwc7j+I=
+

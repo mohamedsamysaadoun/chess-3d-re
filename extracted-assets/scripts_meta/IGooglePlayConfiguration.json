@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 501,
+  "name": "IGooglePlayConfiguration",
+  "namespace": "UnityEngine.Purchasing",
+  "class_name": "IGooglePlayConfiguration",
+  "assembly_name": "UnityEngine.Purchasing.Stores"
+}

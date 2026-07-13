@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 1,
+  "name": "GoogleMobileAdsSettings",
+  "namespace": "GoogleMobileAds.Editor",
+  "class_name": "GoogleMobileAdsSettings",
+  "assembly_name": "GoogleMobileAds.Editor"
+}

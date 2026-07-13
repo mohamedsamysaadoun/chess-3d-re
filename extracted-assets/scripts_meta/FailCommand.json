@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 255,
+  "name": "FailCommand",
+  "namespace": "UnityEngine.TestRunner.NUnitExtensions.Runner",
+  "class_name": "FailCommand",
+  "assembly_name": "UnityEngine.TestRunner"
+}

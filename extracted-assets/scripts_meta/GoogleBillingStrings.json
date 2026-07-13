@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 61,
+  "name": "GoogleBillingStrings",
+  "namespace": "UnityEngine.Purchasing.Models",
+  "class_name": "GoogleBillingStrings",
+  "assembly_name": "UnityEngine.Purchasing.Stores"
+}

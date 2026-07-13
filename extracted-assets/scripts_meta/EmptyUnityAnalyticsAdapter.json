@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 292,
+  "name": "EmptyUnityAnalyticsAdapter",
+  "namespace": "UnityEngine.Purchasing",
+  "class_name": "EmptyAnalyticsAdapter",
+  "assembly_name": "UnityEngine.Purchasing"
+}

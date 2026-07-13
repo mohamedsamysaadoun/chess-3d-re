@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 84,
+  "name": "CoreMetrics",
+  "namespace": "Unity.Services.Core.Internal",
+  "class_name": "CoreMetrics",
+  "assembly_name": "Unity.Services.Core.Internal"
+}

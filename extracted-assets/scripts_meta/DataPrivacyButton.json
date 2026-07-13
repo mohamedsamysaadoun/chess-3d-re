@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 420,
+  "name": "DataPrivacyButton",
+  "namespace": "UnityEngine.Analytics",
+  "class_name": "DataPrivacyButton",
+  "assembly_name": "Unity.Analytics.DataPrivacy"
+}

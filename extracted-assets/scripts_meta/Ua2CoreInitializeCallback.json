@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 101,
+  "name": "Ua2CoreInitializeCallback",
+  "namespace": "",
+  "class_name": "Ua2CoreInitializeCallback",
+  "assembly_name": "Unity.Services.Analytics"
+}

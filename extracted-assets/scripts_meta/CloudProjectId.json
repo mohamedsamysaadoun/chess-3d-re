@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 435,
+  "name": "CloudProjectId",
+  "namespace": "Unity.Services.Core.Configuration",
+  "class_name": "CloudProjectId",
+  "assembly_name": "Unity.Services.Core.Configuration"
+}

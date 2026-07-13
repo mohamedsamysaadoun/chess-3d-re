@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 355,
+  "name": "ProductDetailsResponseListener",
+  "namespace": "UnityEngine.Purchasing",
+  "class_name": "ProductDetailsResponseListener",
+  "assembly_name": "UnityEngine.Purchasing.Stores"
+}

@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 56,
+  "name": "NewtonsoftSerializer",
+  "namespace": "Unity.Services.Core.Internal.Serialization",
+  "class_name": "NewtonsoftSerializer",
+  "assembly_name": "Unity.Services.Core.Internal"
+}

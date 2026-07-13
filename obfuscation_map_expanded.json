@@ -1,0 +1,44 @@
+{
+  "KhaataKhol": {
+    "new_name": "ChessBoard",
+    "type": "class",
+    "confidence": "high",
+    "reason": "Manages chess board state, uses KeemtiChal[] for move history"
+  },
+  "SechDMG": {
+    "new_name": "MoveGenerator",
+    "type": "sealed class",
+    "confidence": "high",
+    "reason": "Generates moves; 'Sech' = search, returns move arrays"
+  },
+  "SechChal": {
+    "new_name": "Move",
+    "type": "struct",
+    "confidence": "high",
+    "reason": "'Sech Chal' = search move; lightweight struct with from/to"
+  },
+  "KeemtiChal": {
+    "new_name": "ImportantMove",
+    "type": "struct",
+    "confidence": "medium",
+    "reason": "'Keemti' = important; used in move history"
+  },
+  "PALI": {
+    "new_name": "Player",
+    "type": "enum",
+    "confidence": "high",
+    "reason": "EK=White, DO=Black"
+  },
+  "DMG_MUSKL": {
+    "new_name": "GameDifficulty",
+    "type": "enum",
+    "confidence": "medium",
+    "reason": "Hindi numbers"
+  },
+  "Parda": {
+    "new_name": "GamePanel",
+    "type": "enum",
+    "confidence": "high",
+    "reason": "UI panels"
+  }
+}

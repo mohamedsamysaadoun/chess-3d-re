@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 244,
+  "name": "Vector2ComparerWithEqualsOperator",
+  "namespace": "UnityEngine.TestTools.Utils",
+  "class_name": "Vector2ComparerWithEqualsOperator",
+  "assembly_name": "UnityEngine.TestRunner"
+}

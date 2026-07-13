@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 488,
+  "name": "IGoogleFinishTransactionService",
+  "namespace": "UnityEngine.Purchasing.Interfaces",
+  "class_name": "IGoogleFinishTransactionService",
+  "assembly_name": "UnityEngine.Purchasing.Stores"
+}

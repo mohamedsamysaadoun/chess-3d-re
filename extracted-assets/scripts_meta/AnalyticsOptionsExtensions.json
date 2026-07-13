@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 275,
+  "name": "AnalyticsOptionsExtensions",
+  "namespace": "Unity.Services.Core.Analytics",
+  "class_name": "AnalyticsOptionsExtensions",
+  "assembly_name": "Unity.Services.Core.Analytics"
+}

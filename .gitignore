@@ -1,0 +1,31 @@
+# Huge binaries - keep references but not the files
+extracted/com.eivaagames.RealChess3DFree.apk
+extracted/config.arm64_v8a.apk
+native/config_arm64/lib/arm64-v8a/libil2cpp.so
+native/config_arm64/lib/arm64-v8a/libunity.so
+native/config_arm64/lib/arm64-v8a/libmain.so
+native/base_apk_assets/assets/bin/Data/Managed/Metadata/global-metadata.dat
+
+# Modded binaries
+modded/libil2cpp-patched.so
+modded/*.apk
+modded/debug.keystore
+
+# Ghidra project (too large, contains binary)
+ghidra-proj/chess_proj.rep/
+ghidra-proj/*.gpr
+ghidra-proj/*.lock*
+
+# jadx output (too many files - keep summaries only)
+decompiled/sources/
+decompiled/resources/
+
+# IL2CPP dump - too large files
+il2cpp-dumped/il2cpp.h
+il2cpp-dumped/script.json
+
+# Original XAPK
+original/gameee.xapk
+
+# Logs
+*.log

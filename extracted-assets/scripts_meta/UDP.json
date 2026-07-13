@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 449,
+  "name": "UDP",
+  "namespace": "UnityEngine.Purchasing",
+  "class_name": "UDP",
+  "assembly_name": "UnityEngine.Purchasing.Stores"
+}

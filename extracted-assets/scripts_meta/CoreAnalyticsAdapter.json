@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 183,
+  "name": "CoreAnalyticsAdapter",
+  "namespace": "UnityEngine.Purchasing",
+  "class_name": "CoreAnalyticsAdapter",
+  "assembly_name": "UnityEngine.Purchasing"
+}

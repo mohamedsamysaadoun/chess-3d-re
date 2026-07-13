@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 37,
+  "name": "IAssemblyLoadProxy",
+  "namespace": "UnityEngine.TestTools.Utils",
+  "class_name": "IAssemblyLoadProxy",
+  "assembly_name": "UnityEngine.TestRunner"
+}

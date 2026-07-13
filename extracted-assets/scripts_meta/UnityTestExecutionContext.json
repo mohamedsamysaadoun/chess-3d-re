@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 208,
+  "name": "UnityTestExecutionContext",
+  "namespace": "UnityEngine.TestRunner.NUnitExtensions.Runner",
+  "class_name": "UnityTestExecutionContext",
+  "assembly_name": "UnityEngine.TestRunner"
+}

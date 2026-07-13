@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 190,
+  "name": "ActionDelegator",
+  "namespace": "UnityEngine.TestTools.NUnitExtensions",
+  "class_name": "ActionDelegator",
+  "assembly_name": "UnityEngine.TestRunner"
+}

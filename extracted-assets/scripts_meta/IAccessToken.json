@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 90,
+  "name": "IAccessToken",
+  "namespace": "Unity.Services.Authentication.Internal",
+  "class_name": "IAccessToken",
+  "assembly_name": "Unity.Services.Core.Internal"
+}

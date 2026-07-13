@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 530,
+  "name": "Diagnostics",
+  "namespace": "Unity.Services.Core.Telemetry.Internal",
+  "class_name": "Diagnostics",
+  "assembly_name": "Unity.Services.Core.Telemetry"
+}

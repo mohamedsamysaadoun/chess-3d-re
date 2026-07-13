@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 144,
+  "name": "FontUpdateTracker",
+  "namespace": "UnityEngine.UI",
+  "class_name": "FontUpdateTracker",
+  "assembly_name": "UnityEngine.UI"
+}

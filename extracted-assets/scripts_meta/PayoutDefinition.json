@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 594,
+  "name": "PayoutDefinition",
+  "namespace": "UnityEngine.Purchasing",
+  "class_name": "PayoutDefinition",
+  "assembly_name": "UnityEngine.Purchasing"
+}

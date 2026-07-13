@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 541,
+  "name": "IChannel",
+  "namespace": "Unity.Services.Wire.Internal",
+  "class_name": "IChannel",
+  "assembly_name": "Unity.Services.Core.Internal"
+}

@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 179,
+  "name": "Vector3EqualityComparer",
+  "namespace": "UnityEngine.TestTools.Utils",
+  "class_name": "Vector3EqualityComparer",
+  "assembly_name": "UnityEngine.TestRunner"
+}

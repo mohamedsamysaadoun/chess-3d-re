@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 410,
+  "name": "IMetrics",
+  "namespace": "Unity.Services.Core.Telemetry.Internal",
+  "class_name": "IMetrics",
+  "assembly_name": "Unity.Services.Core.Internal"
+}

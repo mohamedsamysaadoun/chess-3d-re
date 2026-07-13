@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 54,
+  "name": "EnumerableTestMethodCommand",
+  "namespace": "UnityEngine.TestTools",
+  "class_name": "EnumerableTestMethodCommand",
+  "assembly_name": "UnityEngine.TestRunner"
+}

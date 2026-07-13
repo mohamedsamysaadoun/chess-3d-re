@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 223,
+  "name": "TestResultRenderer",
+  "namespace": "UnityEngine.TestTools.TestRunner.Callbacks",
+  "class_name": "TestResultRenderer",
+  "assembly_name": "UnityEngine.TestRunner"
+}

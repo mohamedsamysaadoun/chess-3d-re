@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 373,
+  "name": "MetricizedGooglePlayStoreExtensions",
+  "namespace": "UnityEngine.Purchasing",
+  "class_name": "MetricizedGooglePlayStoreExtensions",
+  "assembly_name": "UnityEngine.Purchasing.Stores"
+}

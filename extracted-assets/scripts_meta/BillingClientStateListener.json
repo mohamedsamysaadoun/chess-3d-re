@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 396,
+  "name": "BillingClientStateListener",
+  "namespace": "UnityEngine.Purchasing",
+  "class_name": "BillingClientStateListener",
+  "assembly_name": "UnityEngine.Purchasing.Stores"
+}

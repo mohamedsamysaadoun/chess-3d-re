@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 407,
+  "name": "DeviceVolume",
+  "namespace": "Unity.Services.Analytics.Platform",
+  "class_name": "DeviceVolumeProvider",
+  "assembly_name": "Unity.Services.Analytics"
+}

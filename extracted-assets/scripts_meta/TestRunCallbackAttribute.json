@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 290,
+  "name": "TestRunCallbackAttribute",
+  "namespace": "UnityEngine.TestRunner",
+  "class_name": "TestRunCallbackAttribute",
+  "assembly_name": "UnityEngine.TestRunner"
+}

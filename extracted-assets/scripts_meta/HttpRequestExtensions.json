@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 402,
+  "name": "HttpRequestExtensions",
+  "namespace": "Unity.Services.Core.Networking.Internal",
+  "class_name": "HttpRequestExtensions",
+  "assembly_name": "Unity.Services.Core.Internal"
+}

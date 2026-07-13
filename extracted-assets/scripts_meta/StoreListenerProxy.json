@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 429,
+  "name": "StoreListenerProxy",
+  "namespace": "UnityEngine.Purchasing",
+  "class_name": "StoreListenerProxy",
+  "assembly_name": "UnityEngine.Purchasing"
+}

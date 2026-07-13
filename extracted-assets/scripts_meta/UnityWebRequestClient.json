@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 534,
+  "name": "UnityWebRequestClient",
+  "namespace": "Unity.Services.Core.Networking",
+  "class_name": "UnityWebRequestClient",
+  "assembly_name": "Unity.Services.Core.Networking"
+}

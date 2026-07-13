@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 434,
+  "name": "IEnvironmentId",
+  "namespace": "Unity.Services.Authentication.Internal",
+  "class_name": "IEnvironmentId",
+  "assembly_name": "Unity.Services.Core.Internal"
+}

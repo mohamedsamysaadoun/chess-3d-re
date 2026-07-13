@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 485,
+  "name": "PreserveDependencyAttribute",
+  "namespace": "System.Runtime.CompilerServices",
+  "class_name": "PreserveDependencyAttribute",
+  "assembly_name": "Unity.Services.Core"
+}

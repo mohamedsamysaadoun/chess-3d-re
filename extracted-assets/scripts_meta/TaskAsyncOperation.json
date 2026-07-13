@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 295,
+  "name": "TaskAsyncOperation",
+  "namespace": "Unity.Services.Core.Internal",
+  "class_name": "TaskAsyncOperation",
+  "assembly_name": "Unity.Services.Core.Internal"
+}

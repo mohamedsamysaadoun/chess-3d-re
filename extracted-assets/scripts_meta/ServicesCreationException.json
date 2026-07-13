@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 367,
+  "name": "ServicesCreationException",
+  "namespace": "Unity.Services.Core",
+  "class_name": "ServicesCreationException",
+  "assembly_name": "Unity.Services.Core"
+}

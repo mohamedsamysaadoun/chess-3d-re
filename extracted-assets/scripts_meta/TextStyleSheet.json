@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 19004,
+  "name": "TextStyleSheet",
+  "namespace": "UnityEngine.TextCore.Text",
+  "class_name": "TextStyleSheet",
+  "assembly_name": "UnityEngine"
+}

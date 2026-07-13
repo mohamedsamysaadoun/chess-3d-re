@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 39,
+  "name": "AndroidJavaStore",
+  "namespace": "UnityEngine.Purchasing",
+  "class_name": "AndroidJavaStore",
+  "assembly_name": "UnityEngine.Purchasing.Stores"
+}

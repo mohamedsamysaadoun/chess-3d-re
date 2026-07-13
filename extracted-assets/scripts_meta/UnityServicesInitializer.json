@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 317,
+  "name": "UnityServicesInitializer",
+  "namespace": "Unity.Services.Core.Internal",
+  "class_name": "UnityServicesInitializer",
+  "assembly_name": "Unity.Services.Core.Internal"
+}

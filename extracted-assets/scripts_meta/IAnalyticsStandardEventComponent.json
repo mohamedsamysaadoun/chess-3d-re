@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 299,
+  "name": "IAnalyticsStandardEventComponent",
+  "namespace": "Unity.Services.Core.Analytics.Internal",
+  "class_name": "IAnalyticsStandardEventComponent",
+  "assembly_name": "Unity.Services.Core.Internal"
+}

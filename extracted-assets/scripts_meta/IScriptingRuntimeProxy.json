@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 607,
+  "name": "IScriptingRuntimeProxy",
+  "namespace": "UnityEngine.TestTools.Utils",
+  "class_name": "IScriptingRuntimeProxy",
+  "assembly_name": "UnityEngine.TestRunner"
+}

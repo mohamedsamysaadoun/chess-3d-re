@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 597,
+  "name": "PlayerQuitHandler",
+  "namespace": "UnityEngine.TestTools.TestRunner.Callbacks",
+  "class_name": "PlayerQuitHandler",
+  "assembly_name": "UnityEngine.TestRunner"
+}

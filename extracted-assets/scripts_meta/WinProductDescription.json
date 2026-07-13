@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 225,
+  "name": "WinProductDescription",
+  "namespace": "UnityEngine.Purchasing.Default",
+  "class_name": "WinProductDescription",
+  "assembly_name": "UnityEngine.Purchasing.WinRTCore"
+}

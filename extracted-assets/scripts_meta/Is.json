@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 265,
+  "name": "Is",
+  "namespace": "UnityEngine.TestTools.Constraints",
+  "class_name": "Is",
+  "assembly_name": "UnityEngine.TestRunner"
+}

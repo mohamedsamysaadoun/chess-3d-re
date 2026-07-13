@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 458,
+  "name": "SynchronousFilter",
+  "namespace": "UnityEngine.TestTools.TestRunner.GUI",
+  "class_name": "SynchronousFilter",
+  "assembly_name": "UnityEngine.TestRunner"
+}

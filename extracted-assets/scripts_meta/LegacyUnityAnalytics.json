@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 428,
+  "name": "LegacyUnityAnalytics",
+  "namespace": "UnityEngine.Purchasing",
+  "class_name": "LegacyUnityAnalytics",
+  "assembly_name": "UnityEngine.Purchasing"
+}

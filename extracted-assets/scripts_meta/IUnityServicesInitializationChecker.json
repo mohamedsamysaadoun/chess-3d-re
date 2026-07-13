@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 71,
+  "name": "IUnityServicesInitializationChecker",
+  "namespace": "UnityEngine.Purchasing",
+  "class_name": "IUnityServicesInitializationChecker",
+  "assembly_name": "UnityEngine.Purchasing"
+}

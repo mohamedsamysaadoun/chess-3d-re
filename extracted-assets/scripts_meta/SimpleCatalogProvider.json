@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 253,
+  "name": "SimpleCatalogProvider",
+  "namespace": "UnityEngine.Purchasing",
+  "class_name": "SimpleCatalogProvider",
+  "assembly_name": "UnityEngine.Purchasing"
+}

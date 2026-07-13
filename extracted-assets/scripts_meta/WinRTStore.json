@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 583,
+  "name": "WinRTStore",
+  "namespace": "UnityEngine.Purchasing",
+  "class_name": "WinRTStore",
+  "assembly_name": "UnityEngine.Purchasing.Stores"
+}

@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 457,
+  "name": "HashExceptions",
+  "namespace": "Unity.Services.Core.Internal",
+  "class_name": "HashException",
+  "assembly_name": "Unity.Services.Core.Internal"
+}

@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 281,
+  "name": "TelemetryMetricsInstanceWrapper",
+  "namespace": "UnityEngine.Purchasing.Telemetry",
+  "class_name": "TelemetryMetricsInstanceWrapper",
+  "assembly_name": "UnityEngine.Purchasing"
+}

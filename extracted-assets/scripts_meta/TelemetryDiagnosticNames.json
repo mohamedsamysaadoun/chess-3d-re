@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 249,
+  "name": "TelemetryDiagnosticNames",
+  "namespace": "UnityEngine.Purchasing.Telemetry",
+  "class_name": "TelemetryDiagnosticNames",
+  "assembly_name": "UnityEngine.Purchasing"
+}

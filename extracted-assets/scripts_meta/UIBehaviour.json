@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 22,
+  "name": "UIBehaviour",
+  "namespace": "UnityEngine.EventSystems",
+  "class_name": "UIBehaviour",
+  "assembly_name": "UnityEngine.UI"
+}

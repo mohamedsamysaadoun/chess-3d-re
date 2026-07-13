@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 340,
+  "name": "MiniJSON",
+  "namespace": "UnityEngine.Purchasing.MiniJSON",
+  "class_name": "Json",
+  "assembly_name": "Purchasing.Common"
+}

@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 110,
+  "name": "HorizontalLayoutGroup",
+  "namespace": "UnityEngine.UI",
+  "class_name": "HorizontalLayoutGroup",
+  "assembly_name": "UnityEngine.UI"
+}

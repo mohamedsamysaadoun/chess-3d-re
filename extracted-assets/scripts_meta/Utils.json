@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 374,
+  "name": "Utils",
+  "namespace": "UnityEngine.TestTools.Utils",
+  "class_name": "Utils",
+  "assembly_name": "UnityEngine.TestRunner"
+}

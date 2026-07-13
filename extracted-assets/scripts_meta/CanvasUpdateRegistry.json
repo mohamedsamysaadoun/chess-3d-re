@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 470,
+  "name": "CanvasUpdateRegistry",
+  "namespace": "UnityEngine.UI",
+  "class_name": "CanvasUpdateRegistry",
+  "assembly_name": "UnityEngine.UI"
+}

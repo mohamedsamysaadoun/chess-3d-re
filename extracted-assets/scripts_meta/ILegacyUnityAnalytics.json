@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 260,
+  "name": "ILegacyUnityAnalytics",
+  "namespace": "UnityEngine.Purchasing",
+  "class_name": "ILegacyUnityAnalytics",
+  "assembly_name": "UnityEngine.Purchasing"
+}

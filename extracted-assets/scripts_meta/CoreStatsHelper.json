@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 432,
+  "name": "CoreStatsHelper",
+  "namespace": "Unity.Services.Analytics",
+  "class_name": "CoreStatsHelper",
+  "assembly_name": "Unity.Services.Analytics"
+}

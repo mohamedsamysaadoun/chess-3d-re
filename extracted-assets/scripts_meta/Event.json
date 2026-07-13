@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 119,
+  "name": "Event",
+  "namespace": "Unity.Services.Analytics",
+  "class_name": "Event",
+  "assembly_name": "Unity.Services.Analytics"
+}

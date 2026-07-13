@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 472,
+  "name": "GoogleConnectionRetryPolicy",
+  "namespace": "UnityEngine.Purchasing",
+  "class_name": "GoogleConnectionRetryPolicy",
+  "assembly_name": "UnityEngine.Purchasing.Stores"
+}

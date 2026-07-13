@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 314,
+  "name": "FileReference",
+  "namespace": "UnityEngine.Purchasing",
+  "class_name": "FileReference",
+  "assembly_name": "UnityEngine.Purchasing.Stores"
+}

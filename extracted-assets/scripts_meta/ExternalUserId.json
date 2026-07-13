@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 475,
+  "name": "ExternalUserId",
+  "namespace": "Unity.Services.Core.Configuration",
+  "class_name": "ExternalUserId",
+  "assembly_name": "Unity.Services.Core.Configuration"
+}

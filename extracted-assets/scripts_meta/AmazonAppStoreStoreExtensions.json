@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 557,
+  "name": "AmazonAppStoreStoreExtensions",
+  "namespace": "UnityEngine.Purchasing",
+  "class_name": "AmazonAppStoreStoreExtensions",
+  "assembly_name": "UnityEngine.Purchasing.Stores"
+}

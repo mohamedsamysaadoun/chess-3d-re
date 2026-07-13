@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 130,
+  "name": "IGooglePurchaseStateEnumProvider",
+  "namespace": "UnityEngine.Purchasing.Interfaces",
+  "class_name": "IGooglePurchaseStateEnumProvider",
+  "assembly_name": "UnityEngine.Purchasing.Stores"
+}

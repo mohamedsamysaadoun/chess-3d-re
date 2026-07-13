@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 95,
+  "name": "StandardPurchasingModule",
+  "namespace": "UnityEngine.Purchasing",
+  "class_name": "StandardPurchasingModule",
+  "assembly_name": "UnityEngine.Purchasing.Stores"
+}

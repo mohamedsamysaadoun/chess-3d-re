@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 380,
+  "name": "AppleStoreImpl",
+  "namespace": "UnityEngine.Purchasing",
+  "class_name": "AppleStoreImpl",
+  "assembly_name": "UnityEngine.Purchasing.Stores"
+}

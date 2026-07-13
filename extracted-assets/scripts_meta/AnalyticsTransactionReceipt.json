@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 553,
+  "name": "AnalyticsTransactionReceipt",
+  "namespace": "UnityEngine.Purchasing",
+  "class_name": "AnalyticsTransactionReceipt",
+  "assembly_name": "UnityEngine.Purchasing"
+}

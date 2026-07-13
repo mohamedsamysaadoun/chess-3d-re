@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 153,
+  "name": "PurchaseFailedEventArgs",
+  "namespace": "UnityEngine.Purchasing",
+  "class_name": "PurchaseFailedEventArgs",
+  "assembly_name": "UnityEngine.Purchasing"
+}

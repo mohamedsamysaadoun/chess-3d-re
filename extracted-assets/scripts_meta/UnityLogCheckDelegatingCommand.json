@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 174,
+  "name": "UnityLogCheckDelegatingCommand",
+  "namespace": "UnityEngine.TestRunner.NUnitExtensions.Runner",
+  "class_name": "UnityLogCheckDelegatingCommand",
+  "assembly_name": "UnityEngine.TestRunner"
+}

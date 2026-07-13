@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 542,
+  "name": "IEnumerableTestMethodCommand",
+  "namespace": "UnityEngine.TestRunner.NUnitExtensions.Runner",
+  "class_name": "IEnumerableTestMethodCommand",
+  "assembly_name": "UnityEngine.TestRunner"
+}

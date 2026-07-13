@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 409,
+  "name": "ServicesInitializationEvents",
+  "namespace": "Unity.Services.Core.Components",
+  "class_name": "ServicesInitializationEvents",
+  "assembly_name": "Unity.Services.Core.Components"
+}

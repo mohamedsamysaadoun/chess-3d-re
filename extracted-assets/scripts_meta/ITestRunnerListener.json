@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 517,
+  "name": "ITestRunnerListener",
+  "namespace": "UnityEngine.TestTools.TestRunner",
+  "class_name": "ITestRunnerListener",
+  "assembly_name": "UnityEngine.TestRunner"
+}

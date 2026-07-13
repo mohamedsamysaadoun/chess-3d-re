@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 196,
+  "name": "UnityPlatformAttribute",
+  "namespace": "UnityEngine.TestTools",
+  "class_name": "UnityPlatformAttribute",
+  "assembly_name": "UnityEngine.TestRunner"
+}

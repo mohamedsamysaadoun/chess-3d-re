@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 91,
+  "name": "AndroidUtils",
+  "namespace": "Unity.Services.Core.Device",
+  "class_name": "AndroidUtils",
+  "assembly_name": "Unity.Services.Core.Device"
+}

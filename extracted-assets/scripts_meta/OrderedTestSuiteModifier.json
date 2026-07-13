@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 259,
+  "name": "OrderedTestSuiteModifier",
+  "namespace": "UnityEngine.TestRunner.NUnitExtensions",
+  "class_name": "OrderedTestSuiteModifier",
+  "assembly_name": "UnityEngine.TestRunner"
+}

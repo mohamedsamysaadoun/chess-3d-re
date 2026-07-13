@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 194,
+  "name": "DependencyTreeInitializeOrderSorter",
+  "namespace": "Unity.Services.Core.Internal",
+  "class_name": "DependencyTreeInitializeOrderSorter",
+  "assembly_name": "Unity.Services.Core.Internal"
+}

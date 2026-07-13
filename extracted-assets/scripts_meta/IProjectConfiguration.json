@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 328,
+  "name": "IProjectConfiguration",
+  "namespace": "Unity.Services.Core.Configuration.Internal",
+  "class_name": "IProjectConfiguration",
+  "assembly_name": "Unity.Services.Core.Internal"
+}

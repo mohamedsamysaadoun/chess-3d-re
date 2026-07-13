@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 596,
+  "name": "IUDPExtensions",
+  "namespace": "UnityEngine.Purchasing",
+  "class_name": "IUDPExtensions",
+  "assembly_name": "UnityEngine.Purchasing.Stores"
+}

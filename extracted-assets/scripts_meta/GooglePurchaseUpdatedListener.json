@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 168,
+  "name": "GooglePurchaseUpdatedListener",
+  "namespace": "UnityEngine.Purchasing",
+  "class_name": "GooglePurchaseUpdatedListener",
+  "assembly_name": "UnityEngine.Purchasing.Stores"
+}

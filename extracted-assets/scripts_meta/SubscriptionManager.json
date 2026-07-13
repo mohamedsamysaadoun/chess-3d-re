@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 243,
+  "name": "SubscriptionManager",
+  "namespace": "UnityEngine.Purchasing",
+  "class_name": "SubscriptionManager",
+  "assembly_name": "UnityEngine.Purchasing.Stores"
+}

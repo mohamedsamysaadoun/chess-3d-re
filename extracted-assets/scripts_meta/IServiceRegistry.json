@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 182,
+  "name": "IServiceRegistry",
+  "namespace": "Unity.Services.Core.Internal",
+  "class_name": "IServiceRegistry",
+  "assembly_name": "Unity.Services.Core.Internal"
+}

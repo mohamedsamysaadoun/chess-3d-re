@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 545,
+  "name": "EnumerableSetUpTearDownCommand",
+  "namespace": "UnityEngine.TestTools",
+  "class_name": "EnumerableSetUpTearDownCommand",
+  "assembly_name": "UnityEngine.TestRunner"
+}

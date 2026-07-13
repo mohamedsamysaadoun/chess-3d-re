@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 490,
+  "name": "DefaultTestWorkItem",
+  "namespace": "UnityEngine.TestRunner.NUnitExtensions.Runner",
+  "class_name": "DefaultTestWorkItem",
+  "assembly_name": "UnityEngine.TestRunner"
+}

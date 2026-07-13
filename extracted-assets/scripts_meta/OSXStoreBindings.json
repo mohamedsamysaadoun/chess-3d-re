@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 538,
+  "name": "OSXStoreBindings",
+  "namespace": "UnityEngine.Purchasing",
+  "class_name": "OSXStoreBindings",
+  "assembly_name": "UnityEngine.Purchasing.AppleMacosStub"
+}

@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 140,
+  "name": "IStoreController",
+  "namespace": "UnityEngine.Purchasing",
+  "class_name": "IStoreController",
+  "assembly_name": "UnityEngine.Purchasing"
+}

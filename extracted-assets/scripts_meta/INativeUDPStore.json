@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 558,
+  "name": "INativeUDPStore",
+  "namespace": "UnityEngine.Purchasing",
+  "class_name": "INativeUDPStore",
+  "assembly_name": "UnityEngine.Purchasing.Stores"
+}

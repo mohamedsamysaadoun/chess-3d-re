@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 273,
+  "name": "IdentityManager",
+  "namespace": "Unity.Services.Analytics.Internal",
+  "class_name": "IdentityManager",
+  "assembly_name": "Unity.Services.Analytics"
+}

@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 217,
+  "name": "DialogRequest",
+  "namespace": "UnityEngine.Purchasing",
+  "class_name": "DialogRequest",
+  "assembly_name": "UnityEngine.Purchasing.Stores"
+}

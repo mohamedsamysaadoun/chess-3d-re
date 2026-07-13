@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 580,
+  "name": "GetGoogleProductMetadataExtension",
+  "namespace": "UnityEngine.Purchasing",
+  "class_name": "GetGoogleProductMetadataExtension",
+  "assembly_name": "UnityEngine.Purchasing.Stores"
+}

@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 159,
+  "name": "StreamingAssetsUtils",
+  "namespace": "Unity.Services.Core.Configuration",
+  "class_name": "StreamingAssetsUtils",
+  "assembly_name": "Unity.Services.Core.Configuration"
+}

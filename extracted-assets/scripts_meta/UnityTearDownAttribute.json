@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 231,
+  "name": "UnityTearDownAttribute",
+  "namespace": "UnityEngine.TestTools",
+  "class_name": "UnityTearDownAttribute",
+  "assembly_name": "UnityEngine.TestRunner"
+}

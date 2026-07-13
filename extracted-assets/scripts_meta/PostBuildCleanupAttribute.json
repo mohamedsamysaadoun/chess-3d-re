@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 237,
+  "name": "PostBuildCleanupAttribute",
+  "namespace": "UnityEngine.TestTools",
+  "class_name": "PostBuildCleanupAttribute",
+  "assembly_name": "UnityEngine.TestRunner"
+}

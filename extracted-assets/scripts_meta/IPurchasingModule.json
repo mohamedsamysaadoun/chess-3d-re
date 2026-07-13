@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 554,
+  "name": "IPurchasingModule",
+  "namespace": "UnityEngine.Purchasing.Extension",
+  "class_name": "IPurchasingModule",
+  "assembly_name": "UnityEngine.Purchasing"
+}

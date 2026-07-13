@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 521,
+  "name": "ProductDetailsQueryResponse",
+  "namespace": "UnityEngine.Purchasing",
+  "class_name": "ProductDetailsQueryResponse",
+  "assembly_name": "UnityEngine.Purchasing.Stores"
+}

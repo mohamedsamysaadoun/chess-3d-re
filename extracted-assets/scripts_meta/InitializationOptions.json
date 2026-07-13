@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 575,
+  "name": "InitializationOptions",
+  "namespace": "Unity.Services.Core",
+  "class_name": "InitializationOptions",
+  "assembly_name": "Unity.Services.Core"
+}

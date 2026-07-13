@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 166,
+  "name": "IUnityCallback",
+  "namespace": "UnityEngine.Purchasing",
+  "class_name": "IUnityCallback",
+  "assembly_name": "UnityEngine.Purchasing.Stores"
+}

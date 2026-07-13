@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 574,
+  "name": "AmazonApps",
+  "namespace": "UnityEngine.Purchasing",
+  "class_name": "AmazonApps",
+  "assembly_name": "UnityEngine.Purchasing.Stores"
+}

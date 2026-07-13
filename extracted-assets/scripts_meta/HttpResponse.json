@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 578,
+  "name": "HttpResponse",
+  "namespace": "Unity.Services.Core.Networking.Internal",
+  "class_name": "HttpResponse",
+  "assembly_name": "Unity.Services.Core.Internal"
+}

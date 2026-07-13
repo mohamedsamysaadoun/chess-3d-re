@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 77,
+  "name": "ConfigurationUtils",
+  "namespace": "Unity.Services.Core.Configuration",
+  "class_name": "ConfigurationUtils",
+  "assembly_name": "Unity.Services.Core.Configuration"
+}

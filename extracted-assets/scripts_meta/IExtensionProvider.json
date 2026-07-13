@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 170,
+  "name": "IExtensionProvider",
+  "namespace": "UnityEngine.Purchasing",
+  "class_name": "IExtensionProvider",
+  "assembly_name": "UnityEngine.Purchasing"
+}

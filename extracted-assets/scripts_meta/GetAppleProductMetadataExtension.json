@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 288,
+  "name": "GetAppleProductMetadataExtension",
+  "namespace": "UnityEngine.Purchasing",
+  "class_name": "GetAppleProductMetadataExtension",
+  "assembly_name": "UnityEngine.Purchasing.Stores"
+}

@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 148,
+  "name": "QuaternionEqualityComparer",
+  "namespace": "UnityEngine.TestTools.Utils",
+  "class_name": "QuaternionEqualityComparer",
+  "assembly_name": "UnityEngine.TestRunner"
+}

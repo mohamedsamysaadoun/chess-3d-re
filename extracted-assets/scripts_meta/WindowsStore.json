@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 112,
+  "name": "WindowsStore",
+  "namespace": "UnityEngine.Purchasing",
+  "class_name": "WindowsStore",
+  "assembly_name": "UnityEngine.Purchasing.Stores"
+}

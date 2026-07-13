@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 532,
+  "name": "IAPConfigurationHelper",
+  "namespace": "UnityEngine.Purchasing",
+  "class_name": "IAPConfigurationHelper",
+  "assembly_name": "UnityEngine.Purchasing.Codeless"
+}

@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 72,
+  "name": "EventInterfaces",
+  "namespace": "UnityEngine.EventSystems",
+  "class_name": "IEventSystemHandler",
+  "assembly_name": "UnityEngine.UI"
+}

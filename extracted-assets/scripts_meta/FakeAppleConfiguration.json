@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 416,
+  "name": "FakeAppleConfiguration",
+  "namespace": "UnityEngine.Purchasing",
+  "class_name": "FakeAppleConfiguration",
+  "assembly_name": "UnityEngine.Purchasing.Stores"
+}

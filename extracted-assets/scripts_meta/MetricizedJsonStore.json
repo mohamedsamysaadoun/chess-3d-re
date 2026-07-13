@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 519,
+  "name": "MetricizedJsonStore",
+  "namespace": "UnityEngine.Purchasing",
+  "class_name": "MetricizedJsonStore",
+  "assembly_name": "UnityEngine.Purchasing.Stores"
+}

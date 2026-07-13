@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 480,
+  "name": "TransactionFailedEvent",
+  "namespace": "Unity.Services.Analytics",
+  "class_name": "TransactionFailedEvent",
+  "assembly_name": "Unity.Services.Analytics"
+}

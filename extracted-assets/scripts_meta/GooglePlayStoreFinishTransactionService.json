@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 220,
+  "name": "GooglePlayStoreFinishTransactionService",
+  "namespace": "UnityEngine.Purchasing",
+  "class_name": "GooglePlayStoreFinishTransactionService",
+  "assembly_name": "UnityEngine.Purchasing.Stores"
+}

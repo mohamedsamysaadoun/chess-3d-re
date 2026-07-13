@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 477,
+  "name": "AsyncOperationAwaiter",
+  "namespace": "Unity.Services.Core.Internal",
+  "class_name": "AsyncOperationAwaiter",
+  "assembly_name": "Unity.Services.Core.Internal"
+}

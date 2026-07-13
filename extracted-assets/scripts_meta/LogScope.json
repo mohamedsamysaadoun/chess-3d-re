@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 178,
+  "name": "LogScope",
+  "namespace": "UnityEngine.TestTools.Logging",
+  "class_name": "LogScope",
+  "assembly_name": "UnityEngine.TestRunner"
+}

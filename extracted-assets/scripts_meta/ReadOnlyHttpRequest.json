@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 571,
+  "name": "ReadOnlyHttpRequest",
+  "namespace": "Unity.Services.Core.Networking.Internal",
+  "class_name": "ReadOnlyHttpRequest",
+  "assembly_name": "Unity.Services.Core.Internal"
+}

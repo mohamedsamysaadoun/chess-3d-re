@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 57,
+  "name": "ExponentialRetryPolicy",
+  "namespace": "UnityEngine.Purchasing",
+  "class_name": "ExponentialRetryPolicy",
+  "assembly_name": "UnityEngine.Purchasing.Stores"
+}

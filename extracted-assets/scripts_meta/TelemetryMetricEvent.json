@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 356,
+  "name": "TelemetryMetricEvent",
+  "namespace": "UnityEngine.Purchasing.Telemetry",
+  "class_name": "TelemetryMetricEvent",
+  "assembly_name": "UnityEngine.Purchasing"
+}

@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 526,
+  "name": "AbstractPurchasingModule",
+  "namespace": "UnityEngine.Purchasing.Extension",
+  "class_name": "AbstractPurchasingModule",
+  "assembly_name": "UnityEngine.Purchasing"
+}

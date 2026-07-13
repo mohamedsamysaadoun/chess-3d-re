@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 200,
+  "name": "SessionManager",
+  "namespace": "Unity.Services.Analytics.Internal",
+  "class_name": "SessionManager",
+  "assembly_name": "Unity.Services.Analytics"
+}

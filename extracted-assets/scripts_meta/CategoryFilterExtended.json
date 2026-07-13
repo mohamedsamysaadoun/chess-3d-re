@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 572,
+  "name": "CategoryFilterExtended",
+  "namespace": "UnityEngine.TestRunner.NUnitExtensions.Filters",
+  "class_name": "CategoryFilterExtended",
+  "assembly_name": "UnityEngine.TestRunner"
+}

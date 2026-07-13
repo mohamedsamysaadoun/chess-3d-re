@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 362,
+  "name": "ILoggerExtensions",
+  "namespace": "UnityEngine.Purchasing",
+  "class_name": "LoggerExtensions",
+  "assembly_name": "UnityEngine.Purchasing"
+}

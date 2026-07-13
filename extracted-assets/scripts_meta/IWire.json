@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 216,
+  "name": "IWire",
+  "namespace": "Unity.Services.Wire.Internal",
+  "class_name": "IWire",
+  "assembly_name": "Unity.Services.Core.Internal"
+}

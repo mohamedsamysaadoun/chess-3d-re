@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 522,
+  "name": "IVivox",
+  "namespace": "Unity.Services.Vivox.Internal",
+  "class_name": "IVivox",
+  "assembly_name": "Unity.Services.Core.Internal"
+}

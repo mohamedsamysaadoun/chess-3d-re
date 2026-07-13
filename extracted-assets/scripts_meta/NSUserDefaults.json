@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 564,
+  "name": "NSUserDefaults",
+  "namespace": "Unity.Services.Core.Device",
+  "class_name": "NSUserDefaults",
+  "assembly_name": "Unity.Services.Core.Device"
+}

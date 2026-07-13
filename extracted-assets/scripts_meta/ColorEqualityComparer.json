@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 528,
+  "name": "ColorEqualityComparer",
+  "namespace": "UnityEngine.TestTools.Utils",
+  "class_name": "ColorEqualityComparer",
+  "assembly_name": "UnityEngine.TestRunner"
+}

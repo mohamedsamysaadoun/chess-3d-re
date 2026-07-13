@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 465,
+  "name": "AsyncOperationExtensions",
+  "namespace": "Unity.Services.Core.Internal",
+  "class_name": "AsyncOperationExtensions",
+  "assembly_name": "Unity.Services.Core.Internal"
+}

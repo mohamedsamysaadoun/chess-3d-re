@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 13313,
+  "name": "TileBase",
+  "namespace": "UnityEngine.Tilemaps",
+  "class_name": "TileBase",
+  "assembly_name": "UnityEngine"
+}

@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 88,
+  "name": "KhaataKhol",
+  "namespace": "EivaaChess.Game",
+  "class_name": "KhaataKhol",
+  "assembly_name": "Assembly-CSharp"
+}

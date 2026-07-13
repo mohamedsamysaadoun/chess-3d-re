@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 127,
+  "name": "LockedServiceRegistry",
+  "namespace": "Unity.Services.Core.Internal",
+  "class_name": "LockedServiceRegistry",
+  "assembly_name": "Unity.Services.Core.Internal"
+}

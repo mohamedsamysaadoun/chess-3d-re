@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 105,
+  "name": "IAccessTokenObserver",
+  "namespace": "Unity.Services.Authentication.Internal",
+  "class_name": "IAccessTokenObserver",
+  "assembly_name": "Unity.Services.Core.Internal"
+}

@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 287,
+  "name": "GooglePurchaseStateEnum",
+  "namespace": "UnityEngine.Purchasing.Models",
+  "class_name": "GooglePurchaseStateEnum",
+  "assembly_name": "UnityEngine.Purchasing.Stores"
+}

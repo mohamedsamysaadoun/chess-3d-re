@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 455,
+  "name": "CodelessIAPStoreListener",
+  "namespace": "UnityEngine.Purchasing",
+  "class_name": "CodelessIAPStoreListener",
+  "assembly_name": "UnityEngine.Purchasing.Codeless"
+}

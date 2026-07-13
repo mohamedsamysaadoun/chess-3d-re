@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 138,
+  "name": "GoogleCachedQuerySkuDetailsService",
+  "namespace": "UnityEngine.Purchasing",
+  "class_name": "GoogleCachedQueryProductDetailsService",
+  "assembly_name": "UnityEngine.Purchasing.Stores"
+}

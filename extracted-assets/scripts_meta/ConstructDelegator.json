@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 451,
+  "name": "ConstructDelegator",
+  "namespace": "UnityEngine.TestTools.NUnitExtensions",
+  "class_name": "ConstructDelegator",
+  "assembly_name": "UnityEngine.TestRunner"
+}

@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 40,
+  "name": "IStoreExtension",
+  "namespace": "UnityEngine.Purchasing",
+  "class_name": "IStoreExtension",
+  "assembly_name": "UnityEngine.Purchasing"
+}

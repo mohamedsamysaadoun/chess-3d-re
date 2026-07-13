@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 560,
+  "name": "FakeGooglePlayStoreConfiguration",
+  "namespace": "UnityEngine.Purchasing",
+  "class_name": "FakeGooglePlayStoreConfiguration",
+  "assembly_name": "UnityEngine.Purchasing.Stores"
+}

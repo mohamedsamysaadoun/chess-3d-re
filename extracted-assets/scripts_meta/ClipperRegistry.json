@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 401,
+  "name": "ClipperRegistry",
+  "namespace": "UnityEngine.UI",
+  "class_name": "ClipperRegistry",
+  "assembly_name": "UnityEngine.UI"
+}

@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 63,
+  "name": "AnalyticsContainer",
+  "namespace": "Unity.Services.Analytics",
+  "class_name": "AnalyticsContainer",
+  "assembly_name": "Unity.Services.Analytics"
+}

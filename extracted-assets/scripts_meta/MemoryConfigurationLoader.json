@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 240,
+  "name": "MemoryConfigurationLoader",
+  "namespace": "Unity.Services.Core.Configuration",
+  "class_name": "MemoryConfigurationLoader",
+  "assembly_name": "Unity.Services.Core.Configuration"
+}

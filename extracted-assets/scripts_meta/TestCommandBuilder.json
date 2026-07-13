@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 586,
+  "name": "TestCommandBuilder",
+  "namespace": "UnityEngine.TestRunner.NUnitExtensions.Runner",
+  "class_name": "TestCommandBuilder",
+  "assembly_name": "UnityEngine.TestRunner"
+}

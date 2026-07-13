@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 390,
+  "name": "IEnvironments",
+  "namespace": "Unity.Services.Core.Environments.Internal",
+  "class_name": "IEnvironments",
+  "assembly_name": "Unity.Services.Core.Internal"
+}

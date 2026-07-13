@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 370,
+  "name": "AnalyticsService",
+  "namespace": "Unity.Services.Analytics",
+  "class_name": "AnalyticsService",
+  "assembly_name": "Unity.Services.Analytics"
+}

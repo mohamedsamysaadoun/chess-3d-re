@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 129,
+  "name": "EnumerableTestState",
+  "namespace": "UnityEngine.TestTools",
+  "class_name": "EnumerableTestState",
+  "assembly_name": "UnityEngine.TestRunner"
+}

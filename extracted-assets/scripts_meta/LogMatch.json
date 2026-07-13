@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 385,
+  "name": "LogMatch",
+  "namespace": "UnityEngine.TestTools.Logging",
+  "class_name": "LogMatch",
+  "assembly_name": "UnityEngine.TestRunner"
+}

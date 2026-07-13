@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 482,
+  "name": "PhysicsRaycaster",
+  "namespace": "UnityEngine.EventSystems",
+  "class_name": "PhysicsRaycaster",
+  "assembly_name": "UnityEngine.UI"
+}

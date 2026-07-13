@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 567,
+  "name": "GooglePurchase",
+  "namespace": "UnityEngine.Purchasing.Models",
+  "class_name": "GooglePurchase",
+  "assembly_name": "UnityEngine.Purchasing.Stores"
+}

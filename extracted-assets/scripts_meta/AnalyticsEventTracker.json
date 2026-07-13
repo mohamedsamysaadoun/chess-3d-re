@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 6,
+  "name": "AnalyticsEventTracker",
+  "namespace": "UnityEngine.Analytics",
+  "class_name": "AnalyticsEventTracker",
+  "assembly_name": "Unity.Analytics.Tracker.dll"
+}

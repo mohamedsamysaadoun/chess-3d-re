@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 270,
+  "name": "IJsonSerializer",
+  "namespace": "Unity.Services.Core.Internal.Serialization",
+  "class_name": "IJsonSerializer",
+  "assembly_name": "Unity.Services.Core.Internal"
+}

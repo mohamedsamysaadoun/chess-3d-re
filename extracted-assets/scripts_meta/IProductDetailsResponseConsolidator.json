@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 359,
+  "name": "IProductDetailsResponseConsolidator",
+  "namespace": "UnityEngine.Purchasing.Interfaces",
+  "class_name": "IProductDetailsResponseConsolidator",
+  "assembly_name": "UnityEngine.Purchasing.Stores"
+}

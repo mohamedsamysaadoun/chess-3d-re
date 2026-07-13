@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 125,
+  "name": "TestCommandPcHelper",
+  "namespace": "UnityEngine.TestTools",
+  "class_name": "TestCommandPcHelper",
+  "assembly_name": "UnityEngine.TestRunner"
+}

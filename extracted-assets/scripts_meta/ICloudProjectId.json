@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 565,
+  "name": "ICloudProjectId",
+  "namespace": "Unity.Services.Core.Configuration.Internal",
+  "class_name": "ICloudProjectId",
+  "assembly_name": "Unity.Services.Core.Internal"
+}

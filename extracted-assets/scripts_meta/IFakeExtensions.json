@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 152,
+  "name": "IFakeExtensions",
+  "namespace": "UnityEngine.Purchasing",
+  "class_name": "IFakeExtensions",
+  "assembly_name": "UnityEngine.Purchasing.Stores"
+}

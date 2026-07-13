@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 94,
+  "name": "DisabledMetricsFactory",
+  "namespace": "Unity.Services.Core.Telemetry.Internal",
+  "class_name": "DisabledMetricsFactory",
+  "assembly_name": "Unity.Services.Core.Telemetry"
+}

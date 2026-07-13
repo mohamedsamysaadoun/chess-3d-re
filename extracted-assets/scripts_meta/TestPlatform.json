@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 277,
+  "name": "TestPlatform",
+  "namespace": "UnityEngine.TestTools",
+  "class_name": "TestPlatformEnumExtensions",
+  "assembly_name": "UnityEngine.TestRunner"
+}

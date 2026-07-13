@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 241,
+  "name": "CoreLogger",
+  "namespace": "Unity.Services.Core.Internal",
+  "class_name": "CoreLogger",
+  "assembly_name": "Unity.Services.Core.Internal"
+}

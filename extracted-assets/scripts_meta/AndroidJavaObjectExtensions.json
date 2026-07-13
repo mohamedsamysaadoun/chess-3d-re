@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 393,
+  "name": "AndroidJavaObjectExtensions",
+  "namespace": "UnityEngine.Purchasing.Models",
+  "class_name": "AndroidJavaObjectExtensions",
+  "assembly_name": "UnityEngine.Purchasing.Stores"
+}

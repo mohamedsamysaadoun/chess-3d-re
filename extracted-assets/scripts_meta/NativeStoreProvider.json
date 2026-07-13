@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 123,
+  "name": "NativeStoreProvider",
+  "namespace": "UnityEngine.Purchasing",
+  "class_name": "NativeStoreProvider",
+  "assembly_name": "UnityEngine.Purchasing.Stores"
+}

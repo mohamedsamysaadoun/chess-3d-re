@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 209,
+  "name": "ChannelToken",
+  "namespace": "Unity.Services.Wire.Internal",
+  "class_name": "ChannelToken",
+  "assembly_name": "Unity.Services.Core.Internal"
+}

@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 285,
+  "name": "JavaBridge",
+  "namespace": "UnityEngine.Purchasing",
+  "class_name": "JavaBridge",
+  "assembly_name": "UnityEngine.Purchasing.Stores"
+}

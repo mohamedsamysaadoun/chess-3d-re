@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 62,
+  "name": "BaseInputModule",
+  "namespace": "UnityEngine.EventSystems",
+  "class_name": "BaseInputModule",
+  "assembly_name": "UnityEngine.UI"
+}

@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 599,
+  "name": "iOSStoreBindings",
+  "namespace": "UnityEngine.Purchasing",
+  "class_name": "iOSStoreBindings",
+  "assembly_name": "UnityEngine.Purchasing.AppleStub"
+}

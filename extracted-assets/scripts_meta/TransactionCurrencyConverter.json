@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 437,
+  "name": "TransactionCurrencyConverter",
+  "namespace": "Unity.Services.Analytics",
+  "class_name": "TransactionCurrencyConverter",
+  "assembly_name": "Unity.Services.Analytics"
+}

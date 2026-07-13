@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 384,
+  "name": "IWinRT",
+  "namespace": "UnityEngine.Purchasing.Default",
+  "class_name": "IWindowsIAPCallback",
+  "assembly_name": "UnityEngine.Purchasing.WinRTCore"
+}

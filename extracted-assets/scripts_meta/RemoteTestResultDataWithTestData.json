@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 173,
+  "name": "RemoteTestResultDataWithTestData",
+  "namespace": "UnityEngine.TestRunner.TestLaunchers",
+  "class_name": "RemoteTestResultDataWithTestData",
+  "assembly_name": "UnityEngine.TestRunner"
+}

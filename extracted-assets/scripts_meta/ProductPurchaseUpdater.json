@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 272,
+  "name": "ProductPurchaseUpdater",
+  "namespace": "UnityEngine.Purchasing",
+  "class_name": "ProductPurchaseUpdater",
+  "assembly_name": "UnityEngine.Purchasing"
+}

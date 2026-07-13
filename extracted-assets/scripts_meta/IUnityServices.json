@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 92,
+  "name": "IUnityServices",
+  "namespace": "Unity.Services.Core",
+  "class_name": "IUnityServices",
+  "assembly_name": "Unity.Services.Core"
+}

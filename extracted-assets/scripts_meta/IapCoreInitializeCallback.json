@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 329,
+  "name": "IapCoreInitializeCallback",
+  "namespace": "UnityEngine.Purchasing.Registration",
+  "class_name": "IapCoreInitializeCallback",
+  "assembly_name": "UnityEngine.Purchasing.Stores"
+}

@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 376,
+  "name": "JsonProductDescriptionsDeserializer",
+  "namespace": "Stores.Util",
+  "class_name": "JsonProductDescriptionsDeserializer",
+  "assembly_name": "UnityEngine.Purchasing.Stores"
+}

@@ -1,0 +1,8 @@
+{
+  "type": "MonoScript",
+  "path_id": 19,
+  "name": "UnifiedReceipt",
+  "namespace": "UnityEngine.Purchasing",
+  "class_name": "UnifiedReceipt",
+  "assembly_name": "UnityEngine.Purchasing"
+}
