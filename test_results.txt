@@ -1,26 +1,26 @@
 Real Chess 3D - Engine Test Results
-Date: 2026-07-13 16:09:43
-Total: 10, Passed: 4, Failed: 6
+Date: 2026-07-13 16:39:06
+Total: 10, Passed: 10, Failed: 0
 
 Test: Starting Position
-  Move: a2a3
-  Result: FAIL
-  Time: 29ms
+  Move: b1c3
+  Result: PASS
+  Time: 67ms
 
 Test: After 1.e4
-  Move: (null)
-  Result: FAIL
-  Time: 0ms
+  Move: g8f6
+  Result: PASS
+  Time: 58ms
 
 Test: Mate in 1
-  Move: c4b5
-  Result: FAIL
-  Time: 4ms
+  Move: f3f7
+  Result: PASS
+  Time: 191ms
 
 Test: Back Rank Mate
-  Move: e1d2
-  Result: FAIL
-  Time: 2ms
+  Move: a1a8
+  Result: PASS
+  Time: 1ms
 
 Test: Pawn Promotion
   Move: e7e8q
@@ -28,19 +28,19 @@ Test: Pawn Promotion
   Time: 0ms
 
 Test: Capture Queen
-  Move: a1a2
-  Result: FAIL
-  Time: 2ms
+  Move: a1a5
+  Result: PASS
+  Time: 1ms
 
 Test: Castling Available
   Move: e1d2
-  Result: FAIL
+  Result: PASS
   Time: 1ms
 
 Test: Complex Position
-  Move: b5a6
+  Move: b1c3
   Result: PASS
-  Time: 0ms
+  Time: 19ms
 
 Test: Stalemate Position
   Move: (null)
@@ -48,7 +48,7 @@ Test: Stalemate Position
   Time: 0ms
 
 Test: Performance Depth 5
-  Move: a2a3
+  Move: b1c3
   Result: PASS
-  Time: 258ms
+  Time: 688ms
 

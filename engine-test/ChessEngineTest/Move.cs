@@ -1,4 +1,3 @@
-// Standalone Move struct - no Unity dependencies
 using System;
 
 namespace Chess3D.Game
@@ -17,39 +16,26 @@ namespace Chess3D.Game
         public const byte FLAG_PROMOTION = 0x08;
         public const byte FLAG_DOUBLE_PAWN = 0x10;
 
-        public static Move Empty => new Move { fromSquare = 0, toSquare = 0, promotionPiece = 0, moveFlags = 0 };
+        public static Move Empty => new Move();
 
-        public bool IsCapture => (moveFlags & FLAG_CAPTURE) != 0;
-        public bool IsCastling => (moveFlags & FLAG_CASTLE) != 0;
-        public bool IsEnPassant => (moveFlags & FLAG_EN_PASSANT) != 0;
-        public bool IsPromotion => (moveFlags & FLAG_PROMOTION) != 0;
-
-        public static bool operator ==(Move m1, Move m2)
-        {
-            return m1.fromSquare == m2.fromSquare &&
-                   m1.toSquare == m2.toSquare &&
-                   m1.promotionPiece == m2.promotionPiece;
-        }
-
+        public static bool operator ==(Move m1, Move m2) =>
+            m1.fromSquare == m2.fromSquare && m1.toSquare == m2.toSquare && m1.promotionPiece == m2.promotionPiece;
         public static bool operator !=(Move m1, Move m2) => !(m1 == m2);
-
-        public override bool Equals(object obj)
-        {
-            if (!(obj is Move)) return false;
-            return this == (Move)obj;
-        }
-
+        public override bool Equals(object obj) => obj is Move m && this == m;
         public override int GetHashCode() => fromSquare | (toSquare << 6) | (promotionPiece << 12);
 
         public static Move ParseRegularCAN(string can)
         {
             if (string.IsNullOrEmpty(can) || can.Length < 4) return Empty;
-            Move move = new Move();
-            move.fromSquare = SquareToIndex(can.Substring(0, 2));
-            move.toSquare = SquareToIndex(can.Substring(2, 2));
+            var move = new Move();
+            move.fromSquare = (byte)((8 - (can[1] - '0')) * 16 + (can[0] - 'a'));
+            move.toSquare = (byte)((8 - (can[3] - '0')) * 16 + (can[2] - 'a'));
             if (can.Length >= 5)
             {
-                move.promotionPiece = CharToPiece(can[4]);
+                move.promotionPiece = can[4] switch
+                {
+                    'q' => 5, 'r' => 4, 'b' => 3, 'n' => 2, _ => (byte)0
+                };
                 move.moveFlags |= FLAG_PROMOTION;
             }
             return move;
@@ -57,49 +43,14 @@ namespace Chess3D.Game
 
         public override string ToString()
         {
-            string result = IndexToSquare(fromSquare) + IndexToSquare(toSquare);
-            if (IsPromotion && promotionPiece != 0)
-                result += PieceToChar(promotionPiece);
+            int fromFile = fromSquare % 16;
+            int fromRank = 8 - (fromSquare / 16);
+            int toFile = toSquare % 16;
+            int toRank = 8 - (toSquare / 16);
+            string result = $"{(char)('a' + fromFile)}{fromRank}{(char)('a' + toFile)}{toRank}";
+            if (promotionPiece != 0)
+                result += promotionPiece switch { 5 => 'q', 4 => 'r', 3 => 'b', 2 => 'n', _ => '?' };
             return result;
-        }
-
-        private static byte SquareToIndex(string square)
-        {
-            if (square.Length < 2) return 0;
-            int file = square[0] - 'a';
-            int rank = square[1] - '1';
-            return (byte)((7 - rank) * 8 + file);
-        }
-
-        private static string IndexToSquare(byte index)
-        {
-            int file = index % 8;
-            int rank = 7 - (index / 8);
-            return $"{(char)('a' + file)}{(char)('1' + rank)}";
-        }
-
-        private static byte CharToPiece(char c)
-        {
-            switch (char.ToLower(c))
-            {
-                case 'q': return 4;
-                case 'r': return 1;
-                case 'b': return 3;
-                case 'n': return 2;
-                default: return 0;
-            }
-        }
-
-        private static char PieceToChar(byte piece)
-        {
-            switch (piece)
-            {
-                case 1: return 'r';
-                case 2: return 'n';
-                case 3: return 'b';
-                case 4: return 'q';
-                default: return '?';
-            }
         }
     }
 
@@ -110,27 +61,9 @@ namespace Chess3D.Game
         public int score;
     }
 
-    [Serializable]
-    public struct HistoryMove
-    {
-        public Move move;
-        public int capture;
-        public int castle;
-        public int ep;
-        public int fifty;
-    }
-
     public class OpeningBook
     {
-        private Random random;
-        private int[] openingIndex;
-        private short[] openingMoves;
-
-        public short GetOpeningMove(int moveNumber) => -1;  // No opening book in test
-
-        public OpeningBook()
-        {
-            random = new Random();
-        }
+        public short GetOpeningMove(int moveNumber) => -1;
+        public OpeningBook() { }
     }
 }
